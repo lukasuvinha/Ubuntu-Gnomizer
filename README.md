@@ -1,6 +1,6 @@
 # ubuntu-gnomizer!
   
-#### A fork of the less aggressive "Ubuntu-Ubuntu-Debullshit". Gnome your Ubuntu! Tested on Ubuntu 24,.04
+#### A fork of the less aggressive "Ubuntu-Debullshit". Gnome your Ubuntu! Tested on Ubuntu 24,.04
 <img src="https://raw.githubusercontent.com/polkaulfield/ubuntu-debullshit/main/menu.png" width="500" />
   
 #### Features:
